@@ -11,11 +11,9 @@ A simple and elegant Android application for browsing a library of manga, adding
 
 ## 📸 Screenshots
 
-*[TODO: Add screenshots of your app here. You can do this by creating a "screenshots" folder in your repository and linking to the images like this:]*
-
-| Home Screen | Favorites Screen |
-| :---: | :---: |
-| ![Home Screen](screenshots/home.png) | ![Favorites Screen](screenshots/favorites.png) |
+| Home Screen | Manga Screen |Favorites Screen |
+| :---: | :---: | :---: |
+| ![Home Screen](screenshots/home.png) | ![Manga Screen](screenshots/manga.png) |![Favorites Screen](screenshots/favourites.png) |
 
 
 ## 🛠️ Technologies Used
@@ -62,7 +60,3 @@ If you have a suggestion that would make this better, please fork the repo and c
 3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
-
-## 📜 License
-
-Distributed under the [TODO: Choose a License, e.g., MIT License]. See `LICENSE` for more information.
